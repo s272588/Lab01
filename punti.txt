@@ -1,4 +1,9 @@
 Paolo 4
+mm 3
+pop 3
+uno 3
+ef 2
 Lucia 1
 Mario 1
+kl 1
 Giuseppe 0
